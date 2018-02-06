@@ -1,0 +1,14 @@
+{
+    "name": "nuages/rss2",
+    "description": "Simple RSS 2.0 feed generator for PHP",
+    "type": "library",
+    "keywords": ["rss", "atom", "feeds"],
+    "require": {
+        "php": "^5.6 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RssFeed\\": "src/"
+        }
+    }
+}
