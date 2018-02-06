@@ -3,6 +3,7 @@
     "description": "Simple RSS 2.0 feed generator for PHP",
     "type": "library",
     "keywords": ["rss", "atom", "feeds"],
+    "license": "MIT",
     "require": {
         "php": "^5.6 || ^7.0"
     },
