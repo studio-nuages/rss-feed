@@ -1,5 +1,5 @@
 {
-    "name": "nuages/rss2",
+    "name": "nuages/rss-feed",
     "description": "Simple RSS 2.0 feed generator for PHP",
     "type": "library",
     "keywords": ["rss", "atom", "feeds"],
